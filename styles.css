@@ -1,0 +1,29 @@
+p {
+    color:black;
+}
+#img1{
+    width:500px;
+    height:500px;
+}
+#img2{
+    width:600px;
+    height:800px;
+}
+#img3{
+    width:800px;
+    height:700px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+    background-color: #f2d1dc;
+    
+}
+
+a {
+    color: black;
+}
+body{
+    background-color:#E3A1B8;
+}
